@@ -1,6 +1,6 @@
 {
-  "last_synced": "2026-09-14T20:10:01.752874",
-  "accounts_synced": 2,
+  "last_synced": "2026-09-14T20:22:52.831157",
+  "accounts_synced": 3,
   "accounts": [
     {
       "account_label": "FTMO Challenge",
@@ -27,7 +27,7 @@
       "account_type": "Challenge"
     },
     {
-      "account_label": "THE 5ERS ",
+      "account_label": "The 5ers",
       "account_number": 26571424,
       "broker": "Five Percent Online Ltd",
       "server": "FivePercentOnline-Real",
@@ -49,6 +49,30 @@
       "margin_used": 0.0,
       "free_margin": 97972.09,
       "account_type": "Challenge"
+    },
+    {
+      "account_label": "Empire FX",
+      "account_number": 105447,
+      "broker": "Empire FX Trade Limited",
+      "server": "EmpireFX-Main Server",
+      "currency": "USD",
+      "platform": "MT5",
+      "last_updated": "2026-09-14T20:20:28",
+      "date": "2026-09-14",
+      "balance": 347.78,
+      "equity": 1395.58,
+      "open_profit": 0.0,
+      "day_start_balance": 347.78,
+      "daily_pnl": 0.0,
+      "daily_pnl_pct": 0.0,
+      "drawdown_pct": 0.0,
+      "closed_pnl_today": -119.67,
+      "trades_today": 4,
+      "wins_today": 1,
+      "losses_today": 3,
+      "margin_used": 0.0,
+      "free_margin": 1395.58,
+      "account_type": "Live"
     }
   ]
 }

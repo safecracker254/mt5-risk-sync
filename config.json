@@ -13,10 +13,16 @@
       "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/81A933A9AFC5DE3C23B15CAB19C63850/MQL5/Files"
     },
     {
-      "label": "THE 5ERS ",
+      "label": "The 5ers",
       "platform": "MT5",
       "account_type": "Challenge",
       "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/10CE948A1DFC9A8C27E56E827008EBD4/MQL5/Files"
+    },
+    {
+      "label": "Empire FX",
+      "platform": "MT5",
+      "account_type": "Live",
+      "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/0BC85330729E0891F3B89AA7C9D429AE/MQL5/Files"
     }
   ],
   "notion": {
