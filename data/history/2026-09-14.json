@@ -1,0 +1,30 @@
+{
+  "last_synced": "2026-09-14T19:06:20.640958",
+  "accounts_synced": 1,
+  "accounts": [
+    {
+      "account_label": "FTMO Challenge",
+      "account_number": 521102899,
+      "broker": "FTMO Global Markets Ltd",
+      "server": "FTMO-Server2",
+      "currency": "USD",
+      "platform": "MT5",
+      "last_updated": "2026-09-14T18:41:33",
+      "date": "2026-09-14",
+      "balance": 91697.73,
+      "equity": 91697.73,
+      "open_profit": 0.0,
+      "day_start_balance": 91697.73,
+      "daily_pnl": 0.0,
+      "daily_pnl_pct": 0.0,
+      "drawdown_pct": 0.0,
+      "closed_pnl_today": -620.55,
+      "trades_today": 3,
+      "wins_today": 0,
+      "losses_today": 3,
+      "margin_used": 0.0,
+      "free_margin": 91697.73,
+      "account_type": "Challenge"
+    }
+  ]
+}

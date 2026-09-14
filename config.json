@@ -1,0 +1,16 @@
+{
+  "github": {
+    "repo_local_path": "C:/mt5-risk-sync",
+    "repo_url": "https://github.com/safecracker254/mt5-risk-sync.git",
+    "branch": "main",
+    "commit_message_prefix": "Risk sync"
+  },
+  "mt5_accounts": [
+    {
+      "label": "FTMO Challenge",
+      "platform": "MT5",
+      "account_type": "Challenge",
+      "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/81A933A9AFC5DE3C23B15CAB19C63850/MQL5/Files"
+    }
+  ]
+}
