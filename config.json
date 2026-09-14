@@ -11,6 +11,16 @@
       "platform": "MT5",
       "account_type": "Challenge",
       "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/81A933A9AFC5DE3C23B15CAB19C63850/MQL5/Files"
+    },
+    {
+      "label": "THE 5ERS ",
+      "platform": "MT5",
+      "account_type": "Challenge",
+      "files_path": "C:/Users/USER/AppData/Roaming/MetaQuotes/Terminal/10CE948A1DFC9A8C27E56E827008EBD4/MQL5/Files"
     }
-  ]
+  ],
+  "notion": {
+    "risk_journal_page_id": "3dbf4f54-191a-8134-9fd6-e27dec86ef70",
+    "risk_entries_db_id": "d3e84158-04b0-49ab-ba3f-8582914160d3"
+  }
 }

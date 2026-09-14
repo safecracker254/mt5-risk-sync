@@ -1,6 +1,6 @@
 {
-  "last_synced": "2026-09-14T19:23:06.621486",
-  "accounts_synced": 1,
+  "last_synced": "2026-09-14T20:08:37.340192",
+  "accounts_synced": 2,
   "accounts": [
     {
       "account_label": "FTMO Challenge",
@@ -9,7 +9,7 @@
       "server": "FTMO-Server2",
       "currency": "USD",
       "platform": "MT5",
-      "last_updated": "2026-09-14T19:21:39",
+      "last_updated": "2026-09-14T19:56:21",
       "date": "2026-09-14",
       "balance": 91697.73,
       "equity": 91697.73,
@@ -24,6 +24,30 @@
       "losses_today": 3,
       "margin_used": 0.0,
       "free_margin": 91697.73,
+      "account_type": "Challenge"
+    },
+    {
+      "account_label": "THE 5ERS ",
+      "account_number": 26571424,
+      "broker": "Five Percent Online Ltd",
+      "server": "FivePercentOnline-Real",
+      "currency": "USD",
+      "platform": "MT5",
+      "last_updated": "2026-09-14T20:05:34",
+      "date": "2026-09-14",
+      "balance": 97972.09,
+      "equity": 97972.09,
+      "open_profit": 0.0,
+      "day_start_balance": 97972.09,
+      "daily_pnl": 0.0,
+      "daily_pnl_pct": 0.0,
+      "drawdown_pct": 0.0,
+      "closed_pnl_today": -1138.5,
+      "trades_today": 2,
+      "wins_today": 0,
+      "losses_today": 2,
+      "margin_used": 0.0,
+      "free_margin": 97972.09,
       "account_type": "Challenge"
     }
   ]
